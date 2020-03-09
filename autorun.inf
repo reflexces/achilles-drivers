@@ -1,0 +1,9 @@
+[Autorun]
+shellexecute=start.htm
+icon=Docs\Micro-SD-Card.ico
+label=Achilles SOM
+action=Open Arrow SOM
+
+[DeviceInstall]
+DriverPath=Drivers\Windows\CDCACM
+DriverPath=Drivers\Windows\RNDIS
