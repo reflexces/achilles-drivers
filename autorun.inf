@@ -1,6 +1,6 @@
 [Autorun]
 shellexecute=start.htm
-icon=Docs\Micro-SD-Card.ico
+icon=Docs\reflex.ico
 label=Achilles SOM
 action=Open Arrow SOM
 
